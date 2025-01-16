@@ -1,0 +1,1 @@
+This error typically occurs when using Expo's `expo prebuild` command, especially when dealing with complex project setups or custom native modules. The root cause often lies in issues with your project's configuration, native dependencies, or incompatibility between Expo and your development environment.  The error message itself is often cryptic, making diagnosis difficult.
